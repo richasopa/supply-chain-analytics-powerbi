@@ -22,8 +22,7 @@ This project presents an end-to-end supply chain analytics dashboard built using
 * Supplier Deep-Dive Analysis
 * Monthly Trends (Unit Cost & Order Quantity)
 
-## Dashboard Preview
-
+##  Dashboard Preview
 ![Overview](overview-dashboard.png)
 ![Supplier](supplier-analysis.png)
 
