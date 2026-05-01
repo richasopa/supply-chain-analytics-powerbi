@@ -24,7 +24,7 @@ This project presents an end-to-end supply chain analytics dashboard built using
 
 ## Dashboard Preview
 
-![Overview](Overview-dashboard.png)
+![Overview](overview-dashboard.png)
 ![Supplier](supplier-analysis.png)
 
 ## Key Insights
