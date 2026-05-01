@@ -7,6 +7,16 @@ Power BI dashboard analyzing supplier performance, cost trends, and supply chain
 
 This project presents an end-to-end supply chain analytics dashboard built using Power BI. It provides a comprehensive overview of supplier performance, inventory distribution, shipment efficiency, and customer delivery metrics, along with a detailed supplier-level analysis.
 
+## Business Problem
+
+Supply chain operations often face inefficiencies due to delays, uneven inventory distribution, and inconsistent supplier performance.  
+
+This dashboard helps identify:
+- Supplier bottlenecks  
+- Inventory imbalances  
+- Shipment delays  
+- Revenue concentration risks  
+
 ## Objectives
 
 * Analyze supplier efficiency using lead time, order volume, and unit cost
